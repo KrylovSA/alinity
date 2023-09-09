@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022.02.05 14:15:53.766.pas,C:\Users\vibro\Documents\RAD Studio\Projects\Unit1.pas=C:\alinity\uSrvsMain.pas</Transaction>
+    <Transaction>2022.02.05 14:15:53.766.dfm,C:\Users\vibro\Documents\RAD Studio\Projects\Unit1.dfm=C:\alinity\uSrvsMain.dfm</Transaction>
+    <Transaction>2022.02.05 14:16:08.679.dproj,C:\Users\vibro\Documents\RAD Studio\Projects\Project1.dproj=C:\alinity\fd_srv_alinity.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

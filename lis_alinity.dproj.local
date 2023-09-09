@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022.01.17 17:07:36.365.pas,C:\Users\krylov_s\Documents\RAD Studio\Projects\Unit5.pas=C:\Lab\Alinity\Unit5.pas</Transaction>
+    <Transaction>2022.01.17 17:07:36.365.dfm,C:\Users\krylov_s\Documents\RAD Studio\Projects\Unit5.dfm=C:\Lab\Alinity\Unit5.dfm</Transaction>
+    <Transaction>2022.01.17 17:07:49.654.dproj,C:\Users\krylov_s\Documents\RAD Studio\Projects\Project6.dproj=C:\Lab\Alinity\lis_alinity.dproj</Transaction>
+    <Transaction>2022.01.17 17:07:56.481.pas,C:\Lab\Alinity\Unit5.pas=</Transaction>
+    <Transaction>2022.01.17 17:07:56.482.dfm,C:\Lab\Alinity\Unit5.dfm=</Transaction>
+    <Transaction>2022.01.19 11:03:14.061.pas,C:\Lab\Alinity\Unit1.pas=C:\Lab\Alinity\uDmMain.pas</Transaction>
+    <Transaction>2022.01.19 11:03:14.061.dfm,C:\Lab\Alinity\Unit1.dfm=C:\Lab\Alinity\uDmMain.dfm</Transaction>
+    <Transaction>2022.01.19 11:06:31.315.pas,C:\Lab\Alinity\Unit1.pas=C:\Lab\Alinity\sys_functions.pas</Transaction>
+    <Transaction>2022.01.19 11:09:55.342.pas,C:\Lab\Alinity\uDmMain.pas=</Transaction>
+    <Transaction>2022.01.19 11:09:55.342.dfm,C:\Lab\Alinity\uDmMain.dfm=</Transaction>
+    <Transaction>2022.01.19 11:29:37.874.pas,C:\Lab\Alinity\Unit1.pas=C:\Lab\Alinity\uClsAlinityProcessData.pas</Transaction>
+    <Transaction>2022.01.19 12:16:57.791.pas,C:\Lab\Alinity\uClsAlinityProcessData.pas=</Transaction>
+    <Transaction>2022.01.21 18:47:12.213.pas,C:\Lab\Alinity\uWorkList.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
